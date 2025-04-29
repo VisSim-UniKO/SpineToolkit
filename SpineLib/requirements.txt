@@ -1,0 +1,12 @@
+scipy
+vtk
+seaborn
+pandas
+scikit-image
+scikit-learn
+matplotlib
+numpy
+pyvista
+pyacvd
+open3d
+scikit-spatial==7.2.0
