@@ -9,7 +9,7 @@ set(EXTENSION_CONTRIBUTORS "Lara Blomenkamp (University of Koblenz)")
 set(EXTENSION_DESCRIPTION "The SpineToolkit includes modules for automated Creation, Reconstruction, and Analysis of 3D Spine Models")
 set(EXTENSION_ICONURL "https://raw.githubusercontent.com/VisSim-UniKO/SpineToolkit/main/SpineToolkit.png")
 set(EXTENSION_SCREENSHOTURLS "https://raw.githubusercontent.com/VisSim-UniKO/SpineToolkit/main/SpineToolkitScreenshot.png")
-set(EXTENSION_DEPENDS [SlicerIGT, SlicerVMTK]) # Specified as a list or "NA" if no dependencies
+set(EXTENSION_DEPENDS SlicerIGT, SlicerVMTK) # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
 # Extension dependencies
