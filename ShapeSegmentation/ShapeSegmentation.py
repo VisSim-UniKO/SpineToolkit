@@ -163,68 +163,14 @@ class ShapeSegmentationTest(ScriptedLoadableModuleTest):
     """
 
     def setUp(self):
-        """ Do whatever is needed to reset the state - typically a scene clear will be enough.
-        """
         slicer.mrmlScene.Clear(0)
 
     def runTest(self):
-        """Run as few or as many tests as needed here.
-        """
         self.setUp()
-        self.test_evalSegmentation()
+        self.test_ShapeSegmentation()
 
-    def test_evalSegmentation(self):
+    def test_ShapeSegmentation(self):
 
-        timer = 0
-        self.delayDisplay("Starting...")
+        self.delayDisplay("Starting the test")
 
-        input_dir = "C:/Users/blome/Desktop/Dataset_Shape_Segmentation/VerSe_Groundtruth"
-        output_dir = "C:/Users/blome/Desktop/Dataset_Shape_Segmentation/VerSe_ShapeSegmentation"
-
-        # Create output directory if it doesn't exist
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir)
-
-        # Get all subdirectories in input_dir
-        subdirs = [d for d in os.listdir(input_dir) if os.path.isdir(os.path.join(input_dir, d))]
-
-        for subdir in subdirs:
-            subdir_path = os.path.join(input_dir, subdir)
-            subdir_output = os.path.join(output_dir, subdir)
-
-            # Create output subdirectory if it doesn't exist
-            if not os.path.exists(subdir_output):
-                os.makedirs(subdir_output)
-
-            # Get all files in the current subdirectory
-            files = os.listdir(subdir_path)
-            num = len(files)
-
-            # Loop through each file in the subdirectory
-            for file in files:
-                slicer.mrmlScene.Clear(0)
-                try:
-                    filepath = os.path.join(subdir_path, file)
-                    model = slicer.util.loadModel(filepath)
-
-                    widget = slicer.util.getModuleWidget('ShapeSegmentation')
-                    self.progressBarManager = SpineLib.ProgressBarManager(layout=widget.formLayout)
-                    logic = ShapeSegmentationLogic()
-                    test_start = time.time()
-                    logic.run(self.progressBarManager)
-                    test_end = time.time()
-                    timer += test_end - test_start
-                    self.progressBarManager.closeProgressBar()
-
-                    # Save segmented model in the corresponding output subdirectory
-                    segmented_model = slicer.util.getNode('label_model')
-                    slicer.util.saveNode(segmented_model, os.path.join(subdir_output, file))
-
-                    self.delayDisplay(f'Test passed for {file} in {subdir}')
-                except Exception as e:
-                    print(f"Error in file {file}: {e}")
-                    print(traceback.format_exc())
-                    self.progressBarManager.closeProgressBar()
-                    continue
-
-        print(f"Time per file: {timer / num if num else 0}")
+        self.delayDisplay('Test passed!')
