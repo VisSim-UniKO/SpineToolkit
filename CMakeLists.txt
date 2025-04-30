@@ -4,11 +4,11 @@ project(SpineToolkit)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SpineToolkit")
+set(EXTENSION_HOMEPAGE "https://github.com/VisSim-UniKO/SpineToolkit")
 set(EXTENSION_CONTRIBUTORS "Lara Blomenkamp (University of Koblenz)")
-set(EXTENSION_DESCRIPTION "Tools for Creation, Reconstruction, and Analysis of 3D Spine Models")
-set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/SpineToolkit.png")
-set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/SpineToolkit/Screenshots/1.png")
+set(EXTENSION_DESCRIPTION "The SpineToolkit includes modules for automated Creation, Reconstruction, and Analysis of 3D Spine Models")
+set(EXTENSION_ICONURL "https://raw.githubusercontent.com/VisSim-UniKO/SpineToolkit/main/SpineToolkit.png")
+set(EXTENSION_SCREENSHOTURLS "https://raw.githubusercontent.com/VisSim-UniKO/SpineToolkit/main/SpineToolkitScreenshot.png")
 set(EXTENSION_DEPENDS [SlicerIGT, SlicerVMTK]) # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
