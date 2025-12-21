@@ -22,7 +22,6 @@ include(${Slicer_USE_FILE})
 # Extension modules
 add_subdirectory(LumbarSpineCreator)
 add_subdirectory(LumbarSpineReconstruction)
-add_subdirectory(VertebraShapeSegmentation)
 add_subdirectory(ShapeSegmentation)
 add_subdirectory(LigamentLandmarkDetection)
 ## NEXT_MODULE
