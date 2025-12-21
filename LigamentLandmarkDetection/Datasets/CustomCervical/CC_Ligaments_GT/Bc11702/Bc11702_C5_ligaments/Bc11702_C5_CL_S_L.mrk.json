@@ -1,0 +1,248 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "ClosedCurve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 37,
+            "controlPoints": [
+                {
+                    "id": "24",
+                    "label": "Bc11702_C5_CL_S_L-24",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [17.25339698791504, 8.46933650970459, -71.62715148925781],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "25",
+                    "label": "Bc11702_C5_CL_S_L-25",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [18.444852828979492, 6.8775177001953125, -71.03116607666016],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "26",
+                    "label": "Bc11702_C5_CL_S_L-26",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [19.868654251098633, 5.532388210296631, -70.7107925415039],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "27",
+                    "label": "Bc11702_C5_CL_S_L-27",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [21.249998092651367, 4.482633590698242, -69.95960235595703],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "28",
+                    "label": "Bc11702_C5_CL_S_L-28",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [23.507381439208984, 3.7221453189849854, -69.56391143798828],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "29",
+                    "label": "Bc11702_C5_CL_S_L-29",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [25.876995086669922, 4.099111080169678, -69.4554443359375],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "30",
+                    "label": "Bc11702_C5_CL_S_L-30",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [28.899404525756836, 5.062626838684082, -69.64114379882813],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "31",
+                    "label": "Bc11702_C5_CL_S_L-31",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [30.9429874420166, 6.635939598083496, -71.7335433959961],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "32",
+                    "label": "Bc11702_C5_CL_S_L-32",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [31.437795639038086, 8.531012535095215, -73.30036926269531],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "33",
+                    "label": "Bc11702_C5_CL_S_L-33",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [30.876094818115234, 10.79460334777832, -74.7665023803711],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "34",
+                    "label": "Bc11702_C5_CL_S_L-34",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [28.310012817382813, 13.354320526123047, -76.0472183227539],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "35",
+                    "label": "Bc11702_C5_CL_S_L-35",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [23.79503631591797, 14.158087730407715, -76.34960174560547],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "36",
+                    "label": "Bc11702_C5_CL_S_L-36",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [19.702800750732422, 13.089263916015625, -75.96165466308594],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "37",
+                    "label": "Bc11702_C5_CL_S_L-37",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [17.176076889038086, 10.862665176391602, -73.9296646118164],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "area",
+                    "enabled": false,
+                    "units": "cm2",
+                    "printFormat": "%-#4.4g%s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [0.0, 1.0, 0.0],
+                "selectedColor": [0.0, 1.0, 0.0],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}

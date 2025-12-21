@@ -1,0 +1,298 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 8,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "Verse561_L4_PLL_S-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        9.63392162322998,
+                        -90.42276000976564,
+                        206.64068603515625
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "Verse561_L4_PLL_S-2",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        7.0499114990234375,
+                        -90.91183471679688,
+                        206.46324157714844
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "Verse561_L4_PLL_S-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        4.13931941986084,
+                        -91.68572998046876,
+                        206.14642333984375
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "Verse561_L4_PLL_S-4",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        0.011617197655141354,
+                        -91.9055404663086,
+                        205.8522186279297
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "Verse561_L4_PLL_S-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -3.978119134902954,
+                        -91.78949737548828,
+                        206.12582397460938
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "Verse561_L4_PLL_S-6",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -6.933546543121338,
+                        -91.70748138427734,
+                        206.35211181640625
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "Verse561_L4_PLL_S-7",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -9.220592498779297,
+                        -91.72307586669922,
+                        206.41468811035156
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "Verse561_L4_PLL_S-8",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -11.170808792114258,
+                        -91.85576629638672,
+                        206.2521209716797
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "selectedColor": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "activeColor": [
+                    0.4,
+                    1.0,
+                    0.0
+                ],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}

@@ -1,0 +1,324 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 34,
+            "controlPoints": [
+                {
+                    "id": "26",
+                    "label": "CCS1_C6_PLL_I-26",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -5.792109966278076,
+                        138.57009887695312,
+                        -248.4259033203125
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "27",
+                    "label": "CCS1_C6_PLL_I-27",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -3.868281126022339,
+                        139.07386779785156,
+                        -248.59275817871094
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "28",
+                    "label": "CCS1_C6_PLL_I-28",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -1.7503857612609863,
+                        138.98324584960938,
+                        -248.95193481445312
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "29",
+                    "label": "CCS1_C6_PLL_I-29",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        0.42768025398254395,
+                        138.88333129882812,
+                        -249.6602783203125
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "30",
+                    "label": "CCS1_C6_PLL_I-30",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        3.1275227069854736,
+                        138.33453369140625,
+                        -249.55050659179688
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "31",
+                    "label": "CCS1_C6_PLL_I-31",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        5.841813564300537,
+                        138.2643585205078,
+                        -249.46035766601562
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "32",
+                    "label": "CCS1_C6_PLL_I-32",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        7.902187824249268,
+                        138.04299926757812,
+                        -249.10891723632812
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "33",
+                    "label": "CCS1_C6_PLL_I-33",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        9.931720733642578,
+                        137.8865203857422,
+                        -248.8580322265625
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "34",
+                    "label": "CCS1_C6_PLL_I-34",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        11.269100189208984,
+                        137.0242462158203,
+                        -248.71560668945312
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "selectedColor": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "activeColor": [
+                    0.4,
+                    1.0,
+                    0.0
+                ],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}

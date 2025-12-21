@@ -1,0 +1,278 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 51,
+            "controlPoints": [
+                {
+                    "id": "35",
+                    "label": "Bc11702_C4_LF_S-35",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [13.567180633544922, 9.239848136901855, -61.710662841796875],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "36",
+                    "label": "Bc11702_C4_LF_S-36",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.938701629638672, 11.30012321472168, -62.85346221923828],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "37",
+                    "label": "Bc11702_C4_LF_S-37",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.716448783874512, 13.327692031860352, -63.31043243408203],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "38",
+                    "label": "Bc11702_C4_LF_S-38",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [10.058300971984863, 15.335884094238281, -63.266326904296875],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "39",
+                    "label": "Bc11702_C4_LF_S-39",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [8.787192344665527, 16.844215393066406, -63.34931564331055],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "40",
+                    "label": "Bc11702_C4_LF_S-40",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.097627639770508, 18.269363403320313, -63.65481948852539],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "41",
+                    "label": "Bc11702_C4_LF_S-41",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.305065155029297, 19.02998161315918, -64.65238952636719],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "42",
+                    "label": "Bc11702_C4_LF_S-42",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [2.8253302574157715, 19.360305786132813, -64.65023040771484],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "43",
+                    "label": "Bc11702_C4_LF_S-43",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [0.4305229187011719, 19.056154251098633, -65.00743103027344],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "44",
+                    "label": "Bc11702_C4_LF_S-44",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-1.6633989810943604, 18.473220825195313, -65.54053497314453],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "45",
+                    "label": "Bc11702_C4_LF_S-45",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-3.6274890899658203, 16.94462013244629, -65.79460906982422],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "46",
+                    "label": "Bc11702_C4_LF_S-46",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-5.004574298858643, 15.165708541870117, -65.40913391113281],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "47",
+                    "label": "Bc11702_C4_LF_S-47",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-6.482467174530029, 12.93525505065918, -64.91597747802734],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "48",
+                    "label": "Bc11702_C4_LF_S-48",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-7.5196967124938965, 10.252248764038086, -64.1514663696289],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "49",
+                    "label": "Bc11702_C4_LF_S-49",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-8.124244689941406, 8.186616897583008, -63.3777961730957],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "50",
+                    "label": "Bc11702_C4_LF_S-50",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-8.736703872680664, 5.969361305236816, -62.74842071533203],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "51",
+                    "label": "Bc11702_C4_LF_S-51",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-8.809975624084473, 4.084320068359375, -61.95235824584961],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [0.0, 1.0, 0.0],
+                "selectedColor": [0.0, 1.0, 0.0],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}

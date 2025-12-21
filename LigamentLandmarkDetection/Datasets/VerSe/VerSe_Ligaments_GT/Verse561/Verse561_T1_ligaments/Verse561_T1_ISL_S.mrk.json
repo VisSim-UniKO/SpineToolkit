@@ -1,0 +1,298 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 8,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "Verse561_T1_ISL_S-1Verse561_T1_ISL_S-2Verse561_T1_ISL_S-3Verse561_T1_ISL_S-4Verse561_T1_ISL_S-5Verse561_T1_ISL_S-6Verse561_T1_ISL_S-7Verse561_T1_ISL_S-8Verse561_T1_ISL_S-9",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -3.131767511367798,
+                        -72.07091522216797,
+                        601.7610473632812
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "Verse561_T1_ISL_S-10Verse561_T1_ISL_S-11Verse561_T1_ISL_S-12Verse561_T1_ISL_S-13Verse561_T1_ISL_S-14Verse561_T1_ISL_S-15Verse561_T1_ISL_S-16Verse561_T1_ISL_S-17Verse561_T1_ISL_S-18Verse561_T1_ISL_S-19Verse561_T1_ISL_S-20Verse561_T1_ISL_S-21Verse561_T1_ISL_S-22Verse561_T1_ISL_S-23Verse561_T1_ISL_S-24Verse561_T1_ISL_S-25Verse561_T1_ISL_S-26Verse561_T1_ISL_S-27",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.9281437397003174,
+                        -77.07747650146484,
+                        601.8814086914062
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "Verse561_T1_ISL_S-28Verse561_T1_ISL_S-29Verse561_T1_ISL_S-30Verse561_T1_ISL_S-31Verse561_T1_ISL_S-32Verse561_T1_ISL_S-33Verse561_T1_ISL_S-34Verse561_T1_ISL_S-35Verse561_T1_ISL_S-36Verse561_T1_ISL_S-37Verse561_T1_ISL_S-38Verse561_T1_ISL_S-39Verse561_T1_ISL_S-40Verse561_T1_ISL_S-41Verse561_T1_ISL_S-42Verse561_T1_ISL_S-43Verse561_T1_ISL_S-44Verse561_T1_ISL_S-45",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.682302236557007,
+                        -80.53434753417969,
+                        600.4979858398438
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "Verse561_T1_ISL_S-46Verse561_T1_ISL_S-47Verse561_T1_ISL_S-48Verse561_T1_ISL_S-49Verse561_T1_ISL_S-50Verse561_T1_ISL_S-51Verse561_T1_ISL_S-52Verse561_T1_ISL_S-53Verse561_T1_ISL_S-54Verse561_T1_ISL_S-55Verse561_T1_ISL_S-56Verse561_T1_ISL_S-57Verse561_T1_ISL_S-58Verse561_T1_ISL_S-59Verse561_T1_ISL_S-60Verse561_T1_ISL_S-61",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.603065252304077,
+                        -84.5211410522461,
+                        600.37451171875
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "Verse561_T1_ISL_S-62Verse561_T1_ISL_S-63Verse561_T1_ISL_S-64Verse561_T1_ISL_S-65Verse561_T1_ISL_S-66Verse561_T1_ISL_S-67Verse561_T1_ISL_S-68Verse561_T1_ISL_S-69Verse561_T1_ISL_S-70Verse561_T1_ISL_S-71Verse561_T1_ISL_S-72Verse561_T1_ISL_S-73Verse561_T1_ISL_S-74Verse561_T1_ISL_S-75Verse561_T1_ISL_S-76Verse561_T1_ISL_S-77Verse561_T1_ISL_S-78Verse561_T1_ISL_S-79Verse561_T1_ISL_S-80",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.3115971088409424,
+                        -90.7188949584961,
+                        600.4535522460938
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "Verse561_T1_ISL_S-81Verse561_T1_ISL_S-82Verse561_T1_ISL_S-83Verse561_T1_ISL_S-84Verse561_T1_ISL_S-85Verse561_T1_ISL_S-86Verse561_T1_ISL_S-87Verse561_T1_ISL_S-88Verse561_T1_ISL_S-89Verse561_T1_ISL_S-90Verse561_T1_ISL_S-91Verse561_T1_ISL_S-92Verse561_T1_ISL_S-93Verse561_T1_ISL_S-94Verse561_T1_ISL_S-95",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.181126356124878,
+                        -94.87145233154295,
+                        600.5652465820312
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "Verse561_T1_ISL_S-96Verse561_T1_ISL_S-97Verse561_T1_ISL_S-98Verse561_T1_ISL_S-99Verse561_T1_ISL_S-100Verse561_T1_ISL_S-101Verse561_T1_ISL_S-102Verse561_T1_ISL_S-103Verse561_T1_ISL_S-104Verse561_T1_ISL_S-105Verse561_T1_ISL_S-106Verse561_T1_ISL_S-107Verse561_T1_ISL_S-108Verse561_T1_ISL_S-109Verse561_T1_ISL_S-110Verse561_T1_ISL_S-111Verse561_T1_ISL_S-112Verse561_T1_ISL_S-113Verse561_T1_ISL_S-114Verse561_T1_ISL_S-115",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.3115761280059814,
+                        -98.85762786865234,
+                        601.78076171875
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "Verse561_T1_ISL_S-116Verse561_T1_ISL_S-117Verse561_T1_ISL_S-118Verse561_T1_ISL_S-119Verse561_T1_ISL_S-120Verse561_T1_ISL_S-121Verse561_T1_ISL_S-122Verse561_T1_ISL_S-123Verse561_T1_ISL_S-124",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [
+                        -2.1852660179138184,
+                        -101.93736267089844,
+                        600.4176635742188
+                    ],
+                    "orientation": [
+                        -1.0,
+                        -0.0,
+                        -0.0,
+                        -0.0,
+                        -1.0,
+                        -0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "selectedColor": [
+                    0.0,
+                    1.0,
+                    0.0
+                ],
+                "activeColor": [
+                    0.4,
+                    1.0,
+                    0.0
+                ],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 55,
+            "controlPoints": [
+                {
+                    "id": "36",
+                    "label": "Bc11702_C5_LF_S-36",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [15.582254409790039, 8.229615211486816, -72.49444580078125],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "37",
+                    "label": "Bc11702_C5_LF_S-37",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [14.688774108886719, 9.737939834594727, -73.2900161743164],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "38",
+                    "label": "Bc11702_C5_LF_S-38",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [13.474472045898438, 11.221122741699219, -73.64678192138672],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "39",
+                    "label": "Bc11702_C5_LF_S-39",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.5746431350708, 12.58104133605957, -73.83251190185547],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "40",
+                    "label": "Bc11702_C5_LF_S-40",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.054693222045898, 13.805667877197266, -74.61058807373047],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "41",
+                    "label": "Bc11702_C5_LF_S-41",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.040960311889648, 15.14309310913086, -75.31246185302734],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "42",
+                    "label": "Bc11702_C5_LF_S-42",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [9.460143089294434, 16.555280685424805, -75.47756958007813],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "43",
+                    "label": "Bc11702_C5_LF_S-43",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.484608173370361, 17.608989715576172, -75.95279693603516],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "44",
+                    "label": "Bc11702_C5_LF_S-44",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.544037342071533, 18.457624435424805, -76.84540557861328],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "45",
+                    "label": "Bc11702_C5_LF_S-45",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [2.7893574237823486, 19.075027465820313, -76.7259521484375],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "46",
+                    "label": "Bc11702_C5_LF_S-46",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [0.3939211964607239, 18.98190689086914, -77.00094604492188],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "47",
+                    "label": "Bc11702_C5_LF_S-47",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-1.819738745689392, 17.95610809326172, -77.13896179199219],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "48",
+                    "label": "Bc11702_C5_LF_S-48",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-3.629286289215088, 16.50558090209961, -77.42176055908203],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "49",
+                    "label": "Bc11702_C5_LF_S-49",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-4.880246639251709, 15.240260124206543, -77.32275390625],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "50",
+                    "label": "Bc11702_C5_LF_S-50",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-5.938007354736328, 13.32776165008545, -75.95132446289063],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "51",
+                    "label": "Bc11702_C5_LF_S-51",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-6.79540491104126, 10.885821342468262, -75.72561645507813],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "52",
+                    "label": "Bc11702_C5_LF_S-52",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-7.415531635284424, 8.975822448730469, -75.46244812011719],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "53",
+                    "label": "Bc11702_C5_LF_S-53",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-7.920074462890625, 7.302640438079834, -74.68155670166016],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "54",
+                    "label": "Bc11702_C5_LF_S-54",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-8.288866996765137, 5.875504493713379, -74.02096557617188],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "55",
+                    "label": "Bc11702_C5_LF_S-55",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [-8.493112564086914, 4.801060199737549, -73.71914672851563],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "torsion max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [0.0, 1.0, 0.0],
+                "selectedColor": [0.0, 1.0, 0.0],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": true,
+                "pointLabelsVisibility": false,
+                "textScale": 0.0,
+                "glyphType": "Sphere3D",
+                "glyphScale": 3.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}
