@@ -37,8 +37,7 @@ L. Blomenkamp, I. Kramer, S. Bauer and D. Paulus, "A Novel Approach for Shape Se
 
 The LigamentLandmarkDetection module implements a novel approach for detecting spinal ligament landmarks. The method first performs shape-based segmentation of 3D vertebrae and subsequently applies domain-specific rules to identify different types of attachment points.
 
-<img src=<img width="2880" height="1704" alt="Slicer_ligs" src="https://github.com/user-attachments/assets/5bff0f50-ea62-4b4c-a332-da212e4f0d28" />
- width=60% height=60%>
+<img src="https://github.com/user-attachments/assets/5bff0f50-ea62-4b4c-a332-da212e4f0d28" width=60% height=60%/>
 
 #### Publication:
 Paper accepted for publication
